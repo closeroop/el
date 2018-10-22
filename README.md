@@ -4,7 +4,7 @@
 
 ## 页面预览
 
-<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184152.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184431.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184248.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184242.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184330.jpg"  height=350 />
+<img src="https://github.com/closeroop/el/blob/master/screenShoot/Screenshot_20181022-184152.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184431.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184248.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184242.jpg"  height=350 /><img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184330.jpg"  height=350 />
 
 ## 项目总结
   * 根据课程学习vue语法，以及组件使用，了解了vue-router的使用方式
