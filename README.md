@@ -1,6 +1,6 @@
 # el
 
-> A Vue.js project
+> A Vue.js project 便捷访问请转至 <a href="https://gitee.com/closeroop/el">码云</>
 
 ## 页面预览
 
