@@ -2,20 +2,19 @@
 
 > A Vue.js project
 
-## Build Setup
+## 页面预览
 
-``` bash
-# install dependencies
-npm install
+<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184152.jpg"  height=360 />
+<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184431.jpg"  height=360 />
+<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184248.jpg"  height=360 />
+<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184242.jpg"  height=360 />
+<img src="https://gitee.com/closeroop/el/raw/master/screenShoot/Screenshot_20181022-184330.jpg"  height=360 />
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目总结
+  * 根据课程学习vue语法，以及组件使用，了解了vue-router的使用方式
+  * 熟悉了stylus的语法，很容易上手
+  * 学会了有用的webpack配置
+  * 学会了常用vue插件
+    - better-scroll 插件使用 功能：实现移动端原生滑动效果
+    - fastClick 优化移动端300ms点击延迟的插件
+    - babel-polyfill  解决移动端promise问题
