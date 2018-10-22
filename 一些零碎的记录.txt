@@ -1,0 +1,11 @@
+>1. 1px 底部边框的实现
+      直接在元素底部加1px边框是不行的，在移动端会表现为2px，（物理像素？？设备像素）             于是 先给元素after伪类添加1px边框，再用transform scalleY(0.7)旋转
+     源码在 src\assets\stylus\base.styl 和 \src\assets\stylus\mixin.styl 对应的bottom-1px
+
+>2. better-scroll 插件使用
+      功能：实现移动端原生滑动效果
+      坑：
+          移动端点击需要配置 click：true
+	this.foodScroll = new BScroll(this.$refs.foodScroll, { click: true }）
+
+>.3直接对原始数据添加新的属性无法实现数据响应，需要调用 Vue.set( target, key, value )方法 为数据添加属性和数据
