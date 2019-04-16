@@ -2,7 +2,7 @@
   "name": "el",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "closeroop <1441276920@qq.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
